@@ -31,7 +31,6 @@ ba OZ[C-V]####
 ba P[J-L]@####
 
 br @@@####
-br @@@#@##
 
 ce HT[X-Z]####
 ce H[U-Y]@####
@@ -95,6 +94,8 @@ ma OI[R-Z]####
 ma OJ[A-Q]####
 ma OX[Q-Z]####
 ma P[ST]@####
+
+mercosul @@@#@##
 
 mt JXZ####
 mt J[YZ]@####
